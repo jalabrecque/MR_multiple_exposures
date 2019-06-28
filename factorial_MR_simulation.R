@@ -1,6 +1,3 @@
-
-
-
 #' Factorial MR longitudinal data simulation
 #'
 #' @param n Number of Observations
