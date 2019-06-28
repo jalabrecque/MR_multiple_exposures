@@ -1,10 +1,14 @@
 # Simulation of longitudinal datasets under different causal structures and analyses (network MR, multivariable MR and factorial MR)
-A set of functions that simulate longitudinal data and analyze it with either network MR, multivariable MR or factorial MR.
 
-Can be downloaded using:
-
-devtools::source_url("https://raw.githubusercontent.com/jalabrecque/MR_multiple_exposures/master/factorial_MR_analysis.R?token=ACRAEWIRYEMQZBECSM3GR4C5DX7HA")
+The code in this repository accompanies an article about how network MR, multivariable MR and factorial perform when the longitudinal nature of data generation for Mendelian randomization studies is considered. Find more information on these methods in the following references:
 
 
+Burgess S, Daniel RM, Butterworth AS, Thomspon SG, EPIC-InterAct Consortium. [Network Mendelian randomization: Using genetic variants as instrumental variables to investigate mediation in causal pathways.](https://www.ncbi.nlm.nih.gov/pubmed/25150977) Int J of Epidemiol. 2015;44(2):484-495.
+
+Sanderson E, Davey Smith G, Windmeijer F, Bowden J. An examination of multivariable Mendelian randomization in the single-sample and two-sample summary data settings. Int J Epidemiol. 2018;1-25. 
+
+Burgess S, Thompson SG. Multivariable Mendelian randomization: The use of pleiotropic genetic variants to estimate causal effects. Am J of Epidemiol. 2015;181(4):251-260. 
+
+Rees JMB, Foley C, Burgess S. Factorial Mendelian randomization: using genetic variants to assess interactions. bioarXiv. 2019.
 
 
