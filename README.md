@@ -10,3 +10,5 @@ Sanderson E, Davey Smith G, Windmeijer F, Bowden J. [An examination of multivari
 Burgess S, Thompson SG. [Multivariable Mendelian randomization: The use of pleiotropic genetic variants to estimate causal effects.](https://www.ncbi.nlm.nih.gov/pubmed/25632051) Am J of Epidemiol. 2015;181(4):251-260. 
 
 Rees JMB, Foley C, Burgess S. [Factorial Mendelian randomization: using genetic variants to assess interactions.](https://www.biorxiv.org/content/10.1101/531228v1) bioarXiv. 2019.
+
+Information from the appendix can be found in [an html version here.](https://jalabrecque.github.io/MR_multiple_exposures)
